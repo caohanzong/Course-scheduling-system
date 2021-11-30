@@ -1,0 +1,69 @@
+2021-11-29 14:37:11.023 StartupInfoLogger.logStarting:55 - Starting TamsApplication on LAPTOP-SQ6ESAG3 with PID 3248 (C:\Users\12242\Desktop\tams-master1\tams-server\target\classes started by 12242 in C:\Users\12242\Desktop\tams-master1)
+2021-11-29 14:37:11.039 SpringApplication.logStartupProfileInfo:655 - The following profiles are active: dev
+2021-11-29 14:37:12.899 TomcatWebServer.initialize:108 - Tomcat initialized with port(s): 12010 (http)
+2021-11-29 14:37:12.915 DirectJDKLog.log:173 - Initializing ProtocolHandler ["http-nio-12010"]
+2021-11-29 14:37:12.915 DirectJDKLog.log:173 - Starting service [Tomcat]
+2021-11-29 14:37:12.915 DirectJDKLog.log:173 - Starting Servlet engine: [Apache Tomcat/9.0.35]
+2021-11-29 14:37:12.915 DirectJDKLog.log:173 - Loaded Apache Tomcat Native library [1.2.30] using APR version [1.7.0].
+2021-11-29 14:37:12.915 DirectJDKLog.log:173 - APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true].
+2021-11-29 14:37:12.915 DirectJDKLog.log:173 - APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+2021-11-29 14:37:12.931 DirectJDKLog.log:173 - OpenSSL successfully initialized [OpenSSL 1.1.1k  25 Mar 2021]
+2021-11-29 14:37:13.040 DirectJDKLog.log:173 - Initializing Spring embedded WebApplicationContext
+2021-11-29 14:37:13.040 ServletWebServerApplicationContext.prepareWebApplicationContext:284 - Root WebApplicationContext: initialization completed in 1986 ms
+2021-11-29 14:37:13.118 DruidDataSourceAutoConfigure.dataSource:56 - Init DruidDataSource
+2021-11-29 14:37:13.368 DruidDataSource.init:1003 - {dataSource-1} inited
+2021-11-29 14:37:14.088 ExecutorConfigurationSupport.initialize:181 - Initializing ExecutorService 'applicationTaskExecutor'
+2021-11-29 14:37:14.245 DirectJDKLog.log:173 - Starting ProtocolHandler ["http-nio-12010"]
+2021-11-29 14:37:14.276 TomcatWebServer.start:220 - Tomcat started on port(s): 12010 (http) with context path ''
+2021-11-29 14:37:14.636 StartupInfoLogger.logStarted:61 - Started TamsApplication in 4.147 seconds (JVM running for 5.346)
+2021-11-29 14:37:32.678 DirectJDKLog.log:173 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-11-29 14:37:32.678 FrameworkServlet.initServletBean:525 - Initializing Servlet 'dispatcherServlet'
+2021-11-29 14:37:32.685 FrameworkServlet.initServletBean:547 - Completed initialization in 7 ms
+2021-11-29 14:58:52.742 ExecutorConfigurationSupport.shutdown:218 - Shutting down ExecutorService 'applicationTaskExecutor'
+2021-11-29 14:58:52.742 DruidDataSource.close:1948 - {dataSource-1} closing ...
+2021-11-29 14:58:52.757 DruidDataSource.close:2020 - {dataSource-1} closed
+2021-11-29 15:58:34.397 StartupInfoLogger.logStarting:55 - Starting TamsApplication on LAPTOP-SQ6ESAG3 with PID 392 (C:\Users\12242\Desktop\tams-master1\tams-server\target\classes started by 12242 in C:\Users\12242\Desktop\tams-master1)
+2021-11-29 15:58:34.403 SpringApplication.logStartupProfileInfo:655 - The following profiles are active: dev
+2021-11-29 15:58:35.669 TomcatWebServer.initialize:108 - Tomcat initialized with port(s): 12010 (http)
+2021-11-29 15:58:35.685 DirectJDKLog.log:173 - Initializing ProtocolHandler ["http-nio-12010"]
+2021-11-29 15:58:35.685 DirectJDKLog.log:173 - Starting service [Tomcat]
+2021-11-29 15:58:35.685 DirectJDKLog.log:173 - Starting Servlet engine: [Apache Tomcat/9.0.35]
+2021-11-29 15:58:35.685 DirectJDKLog.log:173 - Loaded Apache Tomcat Native library [1.2.30] using APR version [1.7.0].
+2021-11-29 15:58:35.685 DirectJDKLog.log:173 - APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true].
+2021-11-29 15:58:35.685 DirectJDKLog.log:173 - APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+2021-11-29 15:58:35.700 DirectJDKLog.log:173 - OpenSSL successfully initialized [OpenSSL 1.1.1k  25 Mar 2021]
+2021-11-29 15:58:35.810 DirectJDKLog.log:173 - Initializing Spring embedded WebApplicationContext
+2021-11-29 15:58:35.810 ServletWebServerApplicationContext.prepareWebApplicationContext:284 - Root WebApplicationContext: initialization completed in 1391 ms
+2021-11-29 15:58:35.919 DruidDataSourceAutoConfigure.dataSource:56 - Init DruidDataSource
+2021-11-29 15:58:36.170 DruidDataSource.init:1003 - {dataSource-1} inited
+2021-11-29 15:58:36.936 ExecutorConfigurationSupport.initialize:181 - Initializing ExecutorService 'applicationTaskExecutor'
+2021-11-29 15:58:37.075 DirectJDKLog.log:173 - Starting ProtocolHandler ["http-nio-12010"]
+2021-11-29 15:58:37.090 TomcatWebServer.start:220 - Tomcat started on port(s): 12010 (http) with context path ''
+2021-11-29 15:58:37.450 StartupInfoLogger.logStarted:61 - Started TamsApplication in 3.56 seconds (JVM running for 4.553)
+2021-11-29 15:58:46.097 ExecutorConfigurationSupport.shutdown:218 - Shutting down ExecutorService 'applicationTaskExecutor'
+2021-11-29 15:58:46.097 DruidDataSource.close:1948 - {dataSource-1} closing ...
+2021-11-29 15:58:46.097 DruidDataSource.close:2020 - {dataSource-1} closed
+2021-11-29 16:41:42.251 StartupInfoLogger.logStarting:55 - Starting TamsApplication on LAPTOP-SQ6ESAG3 with PID 10296 (C:\Users\12242\Desktop\tams-master1\tams-server\target\classes started by 12242 in C:\Users\12242\Desktop\tams-master1)
+2021-11-29 16:41:42.256 SpringApplication.logStartupProfileInfo:655 - The following profiles are active: dev
+2021-11-29 16:41:43.695 TomcatWebServer.initialize:108 - Tomcat initialized with port(s): 12010 (http)
+2021-11-29 16:41:43.695 DirectJDKLog.log:173 - Initializing ProtocolHandler ["http-nio-12010"]
+2021-11-29 16:41:43.695 DirectJDKLog.log:173 - Starting service [Tomcat]
+2021-11-29 16:41:43.695 DirectJDKLog.log:173 - Starting Servlet engine: [Apache Tomcat/9.0.35]
+2021-11-29 16:41:43.695 DirectJDKLog.log:173 - Loaded Apache Tomcat Native library [1.2.30] using APR version [1.7.0].
+2021-11-29 16:41:43.695 DirectJDKLog.log:173 - APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true].
+2021-11-29 16:41:43.695 DirectJDKLog.log:173 - APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+2021-11-29 16:41:43.711 DirectJDKLog.log:173 - OpenSSL successfully initialized [OpenSSL 1.1.1k  25 Mar 2021]
+2021-11-29 16:41:43.846 DirectJDKLog.log:173 - Initializing Spring embedded WebApplicationContext
+2021-11-29 16:41:43.847 ServletWebServerApplicationContext.prepareWebApplicationContext:284 - Root WebApplicationContext: initialization completed in 1541 ms
+2021-11-29 16:41:43.997 DruidDataSourceAutoConfigure.dataSource:56 - Init DruidDataSource
+2021-11-29 16:41:44.272 DruidDataSource.init:1003 - {dataSource-1} inited
+2021-11-29 16:41:45.050 ExecutorConfigurationSupport.initialize:181 - Initializing ExecutorService 'applicationTaskExecutor'
+2021-11-29 16:41:45.197 DirectJDKLog.log:173 - Starting ProtocolHandler ["http-nio-12010"]
+2021-11-29 16:41:45.228 TomcatWebServer.start:220 - Tomcat started on port(s): 12010 (http) with context path ''
+2021-11-29 16:41:45.572 StartupInfoLogger.logStarted:61 - Started TamsApplication in 4.185 seconds (JVM running for 5.844)
+2021-11-29 16:42:10.821 DirectJDKLog.log:173 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-11-29 16:42:10.821 FrameworkServlet.initServletBean:525 - Initializing Servlet 'dispatcherServlet'
+2021-11-29 16:42:10.821 FrameworkServlet.initServletBean:547 - Completed initialization in 0 ms
+2021-11-29 16:57:24.505 ExecutorConfigurationSupport.shutdown:218 - Shutting down ExecutorService 'applicationTaskExecutor'
+2021-11-29 16:57:24.505 DruidDataSource.close:1948 - {dataSource-1} closing ...
+2021-11-29 16:57:24.505 DruidDataSource.close:2020 - {dataSource-1} closed
